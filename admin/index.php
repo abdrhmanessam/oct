@@ -37,7 +37,7 @@ $pending = $conn->query("SELECT * FROM pending_requests ORDER BY created_at DESC
         <tr>
             <td><?= $card['category'] ?> EGP</td>
             <td><?= $card['day'] ?>/<?= $card['month'] ?>/<?= $card['year'] ?? '—' ?></td>
-            <td><?= $card['price'] ?> EGP</td>
+            <td><?= $card['ssssxzdfsdfdfsdf'] ?> EGP</td>
             <td><?= $card['stock'] ?></td>
         </tr>
         <?php endwhile; ?>
